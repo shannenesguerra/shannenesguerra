@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Shannen, a BSIT with specialization in Multimedia Arts and Animation working student.</div>  
+### <div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation working student.</div>  
   
 
-- 💼I’m currently working on [Concentrix](https://www.concentrix.com/)  
+- 💼 I’m currently working at [Concentrix](https://www.concentrix.com/)  
   
 
 - 🌱 I’m currently learning game development using [Unity](https://unity.com/) and 3D animation using [Blender](https://www.blender.org/)  
