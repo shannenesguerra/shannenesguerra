@@ -6,19 +6,19 @@
 ### <div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation working student.</div>  
   
 
-- 💼 I’m currently working at [Concentrix](https://www.concentrix.com/)  
+➤ I’m currently working at [Concentrix](https://www.concentrix.com/)  
   
 
-- 🌱 I’m currently learning game development using [Unity](https://unity.com/) and 3D animation using [Blender](https://www.blender.org/)  
+➤ I’m currently learning game development using [Unity](https://unity.com/) and 3D animation using [Blender](https://www.blender.org/)  
   
 
-- ⚡ Fun fact: I love cats 😹  
+➤ Fun fact: I love cats 🐈
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -74,7 +74,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me ≽^•⩊•^≼
 <div align="center">
 <a href="https://github.com/https://github.com/shannenesguerra/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
