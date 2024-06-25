@@ -4,7 +4,10 @@
   
 
 ### **<div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation student <br> at National University.</div>**
-  
+
+<br>
+<br>
+<br>
 
 ➤ I’m currently working at [Concentrix](https://www.concentrix.com/)  
   
@@ -16,8 +19,6 @@
   
 
 <br>  
-<br>
-<br>
 
 
 ## My Skills 
