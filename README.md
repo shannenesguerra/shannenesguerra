@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation working student.</div>  
+### <div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation working student at National University.</div>  
   
 
 ➤ I’m currently working at [Concentrix](https://www.concentrix.com/)  
