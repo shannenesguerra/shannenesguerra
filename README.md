@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/shannenesguerra/kineme/blob/main/images/zepeto_photo_1700905764896.png" align="center" style="width: 50" />
-</div>  
-  
-
 ### **<div align="center">I'm Shannen, a BSIT with a specialization in Multimedia Arts and Animation student <br> at National University.</div>**
 
 <div align="center">
