@@ -3,7 +3,7 @@
 ###
 
 -   🖥️  See my portfolio at 
-[ArtStation](http://www.artstation.com/shannenesguerra7) |
+[ArtStation](http://www.artstation.com/shannenesguerra) |
 [My Portfolio Website](https://www.myportfoliowebsite.com)
 -   ✉️  You can message me at [Gmail](mailto:shannenesguerra08@gmail.com)
 
